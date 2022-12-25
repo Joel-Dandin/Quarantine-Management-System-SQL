@@ -1,0 +1,10 @@
+drop table Quarantine_hall cascade constraints;
+drop table Doctor cascade constraints;
+drop table employee cascade constraints;
+drop table Receptionist cascade constraints;
+drop table Room cascade constraints;
+drop table Nurse cascade constraints;
+drop table ventilator cascade constraints;
+drop table patient cascade constraints;
+drop table Record cascade constraints;
+drop table Plasma_Donor cascade constraints;
