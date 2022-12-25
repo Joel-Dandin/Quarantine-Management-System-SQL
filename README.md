@@ -10,9 +10,11 @@ We need to develop a database for Quarantine centre management. In case the pati
 
 ## ER Diagram
 
-![ER Diagram](d:/BE%20IV%20SEM/Projects/DBMS/ER%20_Diagram2.png)
+![ER _Diagram2](https://user-images.githubusercontent.com/60149879/209478791-5cf6a5c8-e710-490d-8c8f-4fb00097cc73.png)
+
 
 ## Schema
 
-![Schema](d:/BE%20IV%20SEM/Projects/DBMS/ER%20_Schema2.png)
+![ER _Schema2](https://user-images.githubusercontent.com/60149879/209478788-1376fbd9-51f1-4cb4-8cab-b38744868c5b.png)
+
 
